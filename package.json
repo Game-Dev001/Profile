@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Game-Dev001.github.io",
+  "homepage": "https://Game-Dev001.github.io/Profile",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Game-Dev001.github.io'",
+    "build-gh": "parcel build --public-url 'https://Game-Dev001.github.io/Profile'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
